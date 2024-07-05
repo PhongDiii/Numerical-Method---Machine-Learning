@@ -10,9 +10,9 @@ I have learned this course in school that got some points below :
 
 # Group Project
 GEYSER INSPIRED ALGORITHM: A NEW GEOLOGICAL‐INSPIRED META‐HEURISTIC FOR REAL‐PARAMETER AND CONSTRAINED ENGINEERING OPTIMIZATION
-This project use approximation theory by GEA, GWO, AHA algorithm to estimate the deep of geothermal construction. 
-By establish code in cost function, main, run thoundsands replication among nodes, we take the optimal value with acceptable error about 2%. 
-This project use MATLAB code. 
+*This project use approximation theory by GEA, GWO, AHA algorithm to estimate the deep of geothermal construction. 
+*By establish code in cost function, main, run thoundsands replication among nodes, we take the optimal value with acceptable error about 2%. 
+*This project use MATLAB code. 
 
 # Update
 * I create an excel file that containt solution by question in the textbook
